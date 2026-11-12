@@ -1,0 +1,949 @@
+{
+  "schema_version": "1.0",
+  "exported_at": "2026-11-12T15:35:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "batch_label": "radar-first-batch-2026-11-12",
+  "product_count": 10,
+  "sort_order": "与首批雷达收录顺序一致，不是增长排名或内容评分排序。",
+  "disclaimer_zh": "本文件只包含可公开引用的产品事实。收入与用户数字均附证据类别、时间窗口和来源 URL；未公开的收入保持「未公开」，不要补 0，也不要把下载量、用户数或 Stars 当成收入。本批没有可比较的同口径增长基线，因此不包含任何增长排名。创始人自述不是审计；收款平台核验也不是审计利润。冲突口径已分条保留。网站实现不得展示内部选题、制作状态、评分或 Notion 链接。",
+  "products": [
+    {
+      "slug": "see-as-me",
+      "name": "See as Me",
+      "website": "https://seeas.me/",
+      "app_store_url": "https://apps.apple.com/us/app/see-as-me-colorblind/id6799407092",
+      "description_zh": "一款色觉共享应用。用户可以把个人色觉设定放进一条链接，对方用浏览器就能看到「我眼里的颜色」。官方定位为免费、无广告、无需账号。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "关系",
+        "健康"
+      ],
+      "business_model": [
+        "免费"
+      ],
+      "launch_date": "2026-09-06",
+      "creators": [
+        {
+          "name": "Javier Jiménez Tomás",
+          "name_certainty": "verified",
+          "role": "创始人",
+          "public_profile_url": "https://seeas.me/press",
+          "name_note": "署名来自官方新闻稿。未发现单独的个人主页，此处使用官方 Press 页作为可公开主页。"
+        }
+      ],
+      "team_size": {
+        "value": "Solo",
+        "evidence_category": "开发者自述",
+        "source_url": "https://seeas.me/press",
+        "note": "新闻稿自述独自开发。官方材料也提到图标由 Jorge Vizmanos 设计，展示时不要写成全部视觉都由创始人一人绘制。"
+      },
+      "revenue": {
+        "status": "未公开",
+        "records": []
+      },
+      "other_metrics": [],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://seeas.me/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "官方新闻稿",
+          "url": "https://seeas.me/press",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/see-as-me-colorblind/id6799407092",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "onenest",
+      "name": "OneNest",
+      "website": "https://www.onenestapp.com/",
+      "app_store_url": null,
+      "description_zh": "面向家庭的宝宝清单应用，支持双方独立登录、平等添加或否决，而不是由一个人建账、另一个人只收到链接。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "家庭",
+        "关系"
+      ],
+      "business_model": [
+        "订阅",
+        "买断"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Chelsea Gower",
+          "name_certainty": "verified",
+          "role": "创始人",
+          "public_profile_url": "https://www.onenestapp.com/",
+          "name_note": "公开署名来自 Indie Hackers 原帖等公开材料。未导出单独私人主页。"
+        }
+      ],
+      "team_size": {
+        "value": "Solo",
+        "evidence_category": "开发者自述",
+        "source_url": "https://www.indiehackers.com/post/built-a-baby-registry-app-as-a-solo-mom-with-zero-coding-background-heres-the-4-month-journey-clVYV3YTY1Z8CyAmSqXA",
+        "note": "公开自述为独立创始人。不额外推断是否完全没有外包。"
+      },
+      "revenue": {
+        "status": "未公开",
+        "records": []
+      },
+      "other_metrics": [
+        {
+          "metric_type": "用户规模",
+          "value": 200,
+          "value_qualifier": "at_least",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "Indie Hackers 原帖；自称零付费投放；口径是家庭数，不是收入",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": "2026-06-20",
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://www.indiehackers.com/post/built-a-baby-registry-app-as-a-solo-mom-with-zero-coding-background-heres-the-4-month-journey-clVYV3YTY1Z8CyAmSqXA",
+          "source_rechecked_http_status": 200,
+          "notes": "原文为上线四周约 200+ 家庭，时点 2026-06-20，记录下限 200。这是早期快照，不是当前数字，也不是收入。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://www.onenestapp.com/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "Indie Hackers 原帖",
+          "url": "https://www.indiehackers.com/post/built-a-baby-registry-app-as-a-solo-mom-with-zero-coding-background-heres-the-4-month-journey-clVYV3YTY1Z8CyAmSqXA",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "scroll-survival",
+      "name": "Scroll Survival",
+      "website": "https://scrollsurvival.com/",
+      "app_store_url": null,
+      "description_zh": "把少刷手机做成游戏：放下手机，村庄才会来新住户；若要提前解锁，需要先完成现实挑战。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "健康",
+        "睡眠",
+        "娱乐"
+      ],
+      "business_model": [
+        "订阅"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Eric Vargas",
+          "name_certainty": "verified",
+          "role": "创始人",
+          "public_profile_url": "https://scrollsurvival.com/",
+          "name_note": "公开署名来自 Devpost 项目页等公开材料。"
+        }
+      ],
+      "team_size": {
+        "value": "Solo",
+        "evidence_category": "开发者自述",
+        "source_url": "https://devpost.com/software/scroll-survival",
+        "note": "Devpost 自述为 solo developer and founder。公开材料也提到曾外包部分角色模型，展示时不要写成全部资产都由一人制作。该 Devpost 链接在 2026-11-12 本环境复检为 HTTP 403。"
+      },
+      "revenue": {
+        "status": "有公开记录",
+        "records": [
+          {
+            "metric_type": "MRR",
+            "value": 215,
+            "value_qualifier": "approximate",
+            "currency": "USD",
+            "evidence_category": "开发者自述",
+            "coverage": "创始人公开自述；非支付平台核验，也不是审计",
+            "window": {
+              "period_start": null,
+              "period_end": "2026-09-29",
+              "published_at": "2026-09-29",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://devpost.com/software/scroll-survival",
+            "source_rechecked_http_status": 403,
+            "notes": "截至 2026-09-29 的自述约 USD 215。不要写成当前仍是该数字。因缺少可独立复核的同口径原始表，不把此前周序变化写成已核验增长率。该来源页本环境复检 HTTP 403。"
+          }
+        ]
+      },
+      "other_metrics": [
+        {
+          "metric_type": "付费用户",
+          "value": 25,
+          "value_qualifier": "approximate",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "创始人公开自述，日期 2026-09-29",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": "2026-09-29",
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://devpost.com/software/scroll-survival",
+          "source_rechecked_http_status": 403,
+          "notes": "约 25 个付费用户。不是下载量，也不是收入。来源页本环境复检 HTTP 403。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://scrollsurvival.com/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "Devpost 项目页",
+          "url": "https://devpost.com/software/scroll-survival",
+          "rechecked_http_status": 403,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": "本环境于导出当日复检得到 HTTP 403，未改写该官方公开页地址；该链接来自首批雷达核验记录，不是新编造的 URL。后续网站部署前建议人工或换网络再打开确认。"
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "tortolitos",
+      "name": "tortolitos",
+      "website": "https://www.tortolitos.app/en",
+      "app_store_url": null,
+      "description_zh": "情侣应用：双方用各自的手机回答同一道每日问题，并一起养成一只小宠物，还可使用共享画布和小游戏。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "关系"
+      ],
+      "business_model": [
+        "订阅"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Santiago Sánchez Goñi",
+          "name_certainty": "partial",
+          "role": "创始人",
+          "public_profile_url": "https://www.tortolitos.app/en",
+          "name_note": "TrustMRR 公开页填报创始人为 Santiago；公开资料指向全名 Santiago Sánchez Goñi。产品官网未完整坐实团队规模与全名，展示时建议同时保留「部分核实」说明，不要写成已由官网确认的唯一署名。"
+        }
+      ],
+      "team_size": {
+        "value": "未知",
+        "evidence_category": "开发者自述",
+        "source_url": "https://trustmrr.com/startup/tortolitos",
+        "note": "只确认有公开创始人署名，不能据此写成确定的一人公司。"
+      },
+      "revenue": {
+        "status": "有公开记录",
+        "records": [
+          {
+            "metric_type": "MRR",
+            "value": 2198,
+            "value_qualifier": "exact",
+            "currency": "USD",
+            "evidence_category": "收款平台核验",
+            "coverage": "TrustMRR 公开看板（页面标明经 RevenueCat API key 核验）；更新时间原文为 2026-11-11 04:14 PM，时区未标明",
+            "window": {
+              "period_start": null,
+              "period_end": null,
+              "published_at": "2026-11-11",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://trustmrr.com/startup/tortolitos",
+            "source_rechecked_http_status": 200,
+            "notes": "这是 Current MRR，不是累计营收，也不是近 30 天营收，更不是利润。核验不等于审计。无更早同口径基线，不能据此做增长排名。"
+          },
+          {
+            "metric_type": "累计营收",
+            "value": 28512,
+            "value_qualifier": "exact",
+            "currency": "USD",
+            "evidence_category": "收款平台核验",
+            "coverage": "TrustMRR 公开看板；更新时间原文为 2026-11-11 04:14 PM，时区未标明",
+            "window": {
+              "period_start": null,
+              "period_end": null,
+              "published_at": "2026-11-11",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://trustmrr.com/startup/tortolitos",
+            "source_rechecked_http_status": 200,
+            "notes": "口径是累计营收，不要与 MRR 或近 30 天营收混写。"
+          },
+          {
+            "metric_type": "近30天营收",
+            "value": 308,
+            "value_qualifier": "exact",
+            "currency": "USD",
+            "evidence_category": "收款平台核验",
+            "coverage": "TrustMRR 页面标题口径；更新时间原文为 2026-11-11 04:14 PM，时区未标明",
+            "window": {
+              "period_start": null,
+              "period_end": null,
+              "published_at": "2026-11-11",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://trustmrr.com/startup/tortolitos",
+            "source_rechecked_http_status": 200,
+            "notes": "页面标题为 USD 308，与 Current MRR 2198 不是同一口径，禁止互相替代或反推。"
+          }
+        ]
+      },
+      "other_metrics": [
+        {
+          "metric_type": "活跃订阅",
+          "value": 883,
+          "value_qualifier": "exact",
+          "currency": null,
+          "evidence_category": "收款平台核验",
+          "coverage": "TrustMRR 公开看板；更新时间原文为 2026-11-11 04:14 PM，时区未标明",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": "2026-11-11",
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://trustmrr.com/startup/tortolitos",
+          "source_rechecked_http_status": 200,
+          "notes": "活跃订阅数，不是官网 users 口径。"
+        },
+        {
+          "metric_type": "用户规模",
+          "value": 50000,
+          "value_qualifier": "at_least",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "产品官网；未说明国家或是否含历史安装",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": null,
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://www.tortolitos.app/en",
+          "source_rechecked_http_status": 200,
+          "notes": "官网写 50,000+ users，记录下限 50000，不是精确计数，也不是收入。不得与下面一条西语市场 10 万+ 合并。"
+        },
+        {
+          "metric_type": "用户规模",
+          "value": 100000,
+          "value_qualifier": "at_least",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "TrustMRR 附注：西语市场；与官网 50,000+ 不一致",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": "2026-11-11",
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://trustmrr.com/startup/tortolitos",
+          "source_rechecked_http_status": 200,
+          "notes": "附注口径为西语市场 10 万+，记录下限 100000。与官网 50,000+ 冲突，必须分条展示，禁止合成一个用户数。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://www.tortolitos.app/en",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "TrustMRR 公开页",
+          "url": "https://trustmrr.com/startup/tortolitos",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "babyscroll",
+      "name": "BabyScroll",
+      "website": "https://babyscroll.app/",
+      "app_store_url": null,
+      "description_zh": "面向幼儿的安静游戏应用，可配合系统的 Guided Access，把使用锁定在该应用内，减少过度刺激和误触离开应用。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "家庭",
+        "健康"
+      ],
+      "business_model": [
+        "试用后付费",
+        "订阅"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Žilvinas",
+          "name_certainty": "partial",
+          "role": "创始人",
+          "public_profile_url": "https://babyscroll.app/",
+          "name_note": "公开访谈只写到名 Žilvinas，姓氏未公开写完。不要补全或猜测姓氏。"
+        }
+      ],
+      "team_size": {
+        "value": "Solo",
+        "evidence_category": "开发者自述",
+        "source_url": "https://indieniche.substack.com/p/he-built-a-simple-app-for-his-son",
+        "note": "访谈自述为 solo iOS developer，无合伙人、未招聘。"
+      },
+      "revenue": {
+        "status": "有公开记录",
+        "records": [
+          {
+            "metric_type": "累计营收",
+            "value": 100000,
+            "value_qualifier": "at_least",
+            "currency": "USD",
+            "evidence_category": "开发者自述",
+            "coverage": "IndieNiche 访谈；Substack 页面日期 2026-04-09，时区以页面为准",
+            "window": {
+              "period_start": null,
+              "period_end": null,
+              "published_at": "2026-04-09",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://indieniche.substack.com/p/he-built-a-simple-app-for-his-son",
+            "source_rechecked_http_status": 200,
+            "notes": "原文为累计营收超过 USD 100,000，记录下限。口径是 all-time / so far，不是当前 MRR，不是支付平台核验。数字停在 2026-04-09，当前收入未知。"
+          }
+        ]
+      },
+      "other_metrics": [],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://babyscroll.app/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "IndieNiche 访谈",
+          "url": "https://indieniche.substack.com/p/he-built-a-simple-app-for-his-son",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "macro",
+      "name": "macro",
+      "website": "https://www.downloadmacro.com/",
+      "app_store_url": null,
+      "description_zh": "面向菲律宾家常菜的热量记录应用，支持拍照或文字描述来记录，也可与家人、朋友或教练一起跟进。",
+      "product_types": [
+        "App",
+        "消费级软件",
+        "AI"
+      ],
+      "categories": [
+        "健康",
+        "家庭"
+      ],
+      "business_model": [
+        "买断",
+        "订阅"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Carl Rosales",
+          "name_certainty": "verified",
+          "role": "创始人与开发者",
+          "public_profile_url": "https://www.downloadmacro.com/team/carl-rosales",
+          "name_note": "署名来自官网团队页，职位为 Founder & Developer。"
+        }
+      ],
+      "team_size": {
+        "value": "未知",
+        "evidence_category": "开发者自述",
+        "source_url": "https://devpost.com/software/macro-1tcgo4",
+        "note": "Devpost 使用 our own team / We built 表述，不能写成确定单人。官网团队页本轮只核到 Carl Rosales 本人。该 Devpost 链接在 2026-11-12 本环境复检为 HTTP 403。"
+      },
+      "revenue": {
+        "status": "有公开记录",
+        "records": [
+          {
+            "metric_type": "累计营收",
+            "value": 88000,
+            "value_qualifier": "approximate",
+            "currency": "USD",
+            "evidence_category": "开发者自述",
+            "coverage": "Devpost / Shipaton 2026 项目页；项目创建 2026-09-30；非支付平台核验",
+            "window": {
+              "period_start": null,
+              "period_end": null,
+              "published_at": "2026-09-30",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://devpost.com/software/macro-1tcgo4",
+            "source_rechecked_http_status": 403,
+            "notes": "团队自述累计约 USD 88,000，不是 MRR，也不是当前收入。主要来自终身买断定价（公开材料写 ₱299，约 USD 5），后来补充了可选订阅。来源页本环境复检 HTTP 403。"
+          }
+        ]
+      },
+      "other_metrics": [
+        {
+          "metric_type": "付费用户",
+          "value": 20000,
+          "value_qualifier": "approximate",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "Devpost；含终身买断用户，不一定是当前活跃订阅",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": "2026-09-30",
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://devpost.com/software/macro-1tcgo4",
+          "source_rechecked_http_status": 403,
+          "notes": "约 20,000 付费用户。不是收入。来源页本环境复检 HTTP 403。"
+        },
+        {
+          "metric_type": "用户规模",
+          "value": 75000,
+          "value_qualifier": "at_least",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "Devpost 用户口径；与官网 50,000+ 不一致",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": "2026-09-30",
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://devpost.com/software/macro-1tcgo4",
+          "source_rechecked_http_status": 403,
+          "notes": "原文为超 75,000 用户。不得与官网 50,000+ 合并。来源页本环境复检 HTTP 403。"
+        },
+        {
+          "metric_type": "用户规模",
+          "value": 50000,
+          "value_qualifier": "at_least",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "产品官网；与 Devpost 约 7.5 万不完全一致",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": null,
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://www.downloadmacro.com/",
+          "source_rechecked_http_status": 200,
+          "notes": "官网写 50,000+ users，记录下限 50000。与 Devpost 口径冲突，必须分条展示。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://www.downloadmacro.com/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "官网团队页",
+          "url": "https://www.downloadmacro.com/team/carl-rosales",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "Devpost 项目页",
+          "url": "https://devpost.com/software/macro-1tcgo4",
+          "rechecked_http_status": 403,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": "本环境于导出当日复检得到 HTTP 403，未改写该官方公开页地址；该链接来自首批雷达核验记录，不是新编造的 URL。后续网站部署前建议人工或换网络再打开确认。"
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "josie",
+      "name": "Josie",
+      "website": "https://josie.care/",
+      "app_store_url": null,
+      "description_zh": "为不规则周期设计的健康追踪应用，把症状、用药、体力和就诊准备放在一起。官网明确它不是医疗器械，也不能用于诊断。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "健康"
+      ],
+      "business_model": [
+        "未知"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Laure Santolini",
+          "name_certainty": "verified",
+          "role": "共同创始人",
+          "public_profile_url": "https://josie.care/fr/about",
+          "name_note": "署名来自官网 About 页。"
+        },
+        {
+          "name": "Manon Vervaeke",
+          "name_certainty": "verified",
+          "role": "共同创始人",
+          "public_profile_url": "https://josie.care/fr/about",
+          "name_note": "署名来自官网 About 页。"
+        }
+      ],
+      "team_size": {
+        "value": "2-5",
+        "evidence_category": "公开事实",
+        "source_url": "https://josie.care/fr/about",
+        "note": "官网公开为双人共同创始，必须按小团队展示，不能写成一人公司。"
+      },
+      "revenue": {
+        "status": "未公开",
+        "records": []
+      },
+      "other_metrics": [],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://josie.care/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "官网 About",
+          "url": "https://josie.care/fr/about",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "malyatko",
+      "name": "Malyatko",
+      "website": "https://malyatko.app/en/",
+      "app_store_url": "https://apps.apple.com/us/app/malyatko-baby-feeding-tracker/id6757263634",
+      "description_zh": "宝宝喂养与体重记录应用：无需注册、无广告、可离线使用，并可通过 iCloud 与伴侣同步。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "家庭",
+        "健康"
+      ],
+      "business_model": [
+        "订阅"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Oleksandr Bondar",
+          "name_certainty": "verified",
+          "role": "创始人",
+          "public_profile_url": "https://malyatko.app/en/",
+          "name_note": "App Store 开发者署名与 Indie Hackers 产品页一致。"
+        }
+      ],
+      "team_size": {
+        "value": "Solo",
+        "evidence_category": "开发者自述",
+        "source_url": "https://www.indiehackers.com/product/malyatko-baby-log-tracker",
+        "note": "Indie Hackers 产品页标 1 founder。"
+      },
+      "revenue": {
+        "status": "有公开记录",
+        "records": [
+          {
+            "metric_type": "MRR",
+            "value": 150,
+            "value_qualifier": "exact",
+            "currency": "USD",
+            "evidence_category": "开发者自述",
+            "coverage": "Indie Hackers 产品页帖子标题；非支付平台核验",
+            "window": {
+              "period_start": null,
+              "period_end": null,
+              "published_at": "2026-09-18",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://www.indiehackers.com/product/malyatko-baby-log-tracker",
+            "source_rechecked_http_status": 200,
+            "notes": "来自帖子标题，时点 2026-09-18。同一产品页侧栏另有一条 Self-reported September 2026 的 USD 200/mo 记录。两条冲突，禁止合成一个数字，也不能把其中任一数字当作已核验增长。"
+          },
+          {
+            "metric_type": "MRR",
+            "value": 200,
+            "value_qualifier": "exact",
+            "currency": "USD",
+            "evidence_category": "开发者自述",
+            "coverage": "Indie Hackers 产品页侧栏 Self-reported September 2026；与标题 USD 150 冲突",
+            "window": {
+              "period_start": null,
+              "period_end": "2026-09-30",
+              "published_at": "2026-09-18",
+              "observed_at": "2026-11-12",
+              "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+            },
+            "source_url": "https://www.indiehackers.com/product/malyatko-baby-log-tracker",
+            "source_rechecked_http_status": 200,
+            "notes": "侧栏口径。period_end 记 2026-09-30 仅表示原文月份是 2026 年 9 月，不是已核验的精确截止日。不得与标题 USD 150 合并。"
+          }
+        ]
+      },
+      "other_metrics": [],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://malyatko.app/en/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "App Store",
+          "url": "https://apps.apple.com/us/app/malyatko-baby-feeding-tracker/id6757263634",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "Indie Hackers 产品页",
+          "url": "https://www.indiehackers.com/product/malyatko-baby-log-tracker",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "familymanager",
+      "name": "FamilyManager",
+      "website": "https://www.familymanager.pro/",
+      "app_store_url": null,
+      "description_zh": "面向重组家庭的日历与计划工具，支持两个住处之间的换乘安排。官网也提到没有孩子的情侣和合租屋会使用。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "家庭",
+        "关系",
+        "效率"
+      ],
+      "business_model": [
+        "订阅",
+        "买断"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Ben Kohler",
+          "name_certainty": "verified",
+          "role": "创始人",
+          "public_profile_url": "https://www.familymanager.pro/",
+          "name_note": "公开署名来自产品官网及相关公开访谈摘要。"
+        }
+      ],
+      "team_size": {
+        "value": "Solo",
+        "evidence_category": "开发者自述",
+        "source_url": "https://happybootstrapping.com/p/familymanager-how-ben-kohler-builds",
+        "note": "公开访谈摘要自述为业余独自开发。该页是公开文章，不是私人联系方式。"
+      },
+      "revenue": {
+        "status": "未公开",
+        "records": []
+      },
+      "other_metrics": [
+        {
+          "metric_type": "用户规模",
+          "value": 2000,
+          "value_qualifier": "at_least",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "产品官网；家庭成员账户，不是付费用户",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": null,
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://www.familymanager.pro/",
+          "source_rechecked_http_status": 200,
+          "notes": "官网写 2,000+ 家庭成员账户，记录下限 2000。不是收入。"
+        },
+        {
+          "metric_type": "用户规模",
+          "value": 1200,
+          "value_qualifier": "at_least",
+          "currency": null,
+          "evidence_category": "开发者自述",
+          "coverage": "产品官网；家庭数，与成员账户分条",
+          "window": {
+            "period_start": null,
+            "period_end": null,
+            "published_at": null,
+            "observed_at": "2026-11-12",
+            "timezone_note": "observed_at 与 published_at 日期按公开页面或雷达观察记录；TrustMRR 更新时间原文未标明时区。"
+          },
+          "source_url": "https://www.familymanager.pro/",
+          "source_rechecked_http_status": 200,
+          "notes": "官网写 1,200+ 家庭，记录下限 1200。不是收入，也不要与成员账户数加总或混用。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://www.familymanager.pro/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "公开访谈摘要",
+          "url": "https://happybootstrapping.com/p/familymanager-how-ben-kohler-builds",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    },
+    {
+      "slug": "planet",
+      "name": "PLANET",
+      "website": "https://www.joinplanet.pet/",
+      "app_store_url": null,
+      "description_zh": "把宠物的用药和预约做成全家共用清单与交接要点。官网明确不诊断、不做社交、不卖数据，目前仍在招募首批家庭。",
+      "product_types": [
+        "App",
+        "消费级软件"
+      ],
+      "categories": [
+        "家庭",
+        "关系",
+        "健康"
+      ],
+      "business_model": [
+        "创始支持"
+      ],
+      "launch_date": null,
+      "creators": [
+        {
+          "name": "Devin",
+          "name_certainty": "partial",
+          "role": "创始人",
+          "public_profile_url": "https://www.joinplanet.pet/about",
+          "name_note": "官网 About 页以第一人称署名 Devin，姓氏未公开。不要补全或猜测姓氏。"
+        }
+      ],
+      "team_size": {
+        "value": "未知",
+        "evidence_category": "开发者自述",
+        "source_url": "https://www.joinplanet.pet/about",
+        "note": "官网用第一人称，支持独立创始人口径，但未写明是否始终一人，故团队规模保持未知，不写成确定 Solo。"
+      },
+      "revenue": {
+        "status": "未公开",
+        "records": []
+      },
+      "other_metrics": [],
+      "sources": [
+        {
+          "label": "官网",
+          "url": "https://www.joinplanet.pet/",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        },
+        {
+          "label": "官网 About",
+          "url": "https://www.joinplanet.pet/about",
+          "rechecked_http_status": 200,
+          "rechecked_at": "2026-11-12T15:35:00+08:00",
+          "recheck_note": null
+        }
+      ],
+      "last_verified_at": "2026-11-12",
+      "last_verified_timezone": "Asia/Shanghai"
+    }
+  ]
+}
