@@ -1,0 +1,1 @@
+# global-indie-product-radar
